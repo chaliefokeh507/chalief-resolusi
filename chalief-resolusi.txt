@@ -1,5 +1,6 @@
 Chalief Resolusi
 - Mengembangkan Aplikasi di BKPP
 - Lebih memperdalam lagi Pemrograman WEB
-- Pengen belajar Github dan Git
+- Belajar Node JS
 - Belajar Bahasa Inggris
+- Belajar Javascript
